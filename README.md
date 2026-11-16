@@ -1,0 +1,1 @@
+A RAG-powered knowledge assistant that turns internal PDFs and websites into contextual answers using a local LLM, with clear source citations.
